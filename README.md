@@ -1,21 +1,8 @@
-# blue_cli
+# 官微官网
+## 路由 vuex都已经搭好 分别在：
+>   src/router
 
-> A Vue.js project
+>   src/store
+## main.js已经配好了 可以直接上手开发项目
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+***last commit by Zyk***
