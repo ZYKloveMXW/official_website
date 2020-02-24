@@ -1,5 +1,6 @@
 <template>
   <div>
+    <el-button>click</el-button>
   </div>
 </template>
 
