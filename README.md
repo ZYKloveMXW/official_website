@@ -3,6 +3,17 @@
 >   src/router
 
 >   src/store
-## main.js已经配好了 可以直接上手开发项目
+
+
+## src目录说明
+
+~~~
+src
+├─assets 
+├─componets  //存放公共组件
+├─router
+├─store
+└─views   //存放每个页面组件
+~~~
 
 ***last commit by Zyk***
